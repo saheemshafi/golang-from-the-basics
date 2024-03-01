@@ -1,1 +1,1 @@
-# golang-from-the-basics
+# Golang from the basics
