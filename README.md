@@ -35,3 +35,4 @@ ___
 11. [Structs](11structs-in-go/main.go)
 12. [Conditionals](12conditionals/main.go)
 13. [Switch case](13switch-case/main.go)
+14. [Loops](14loops/main.go)
