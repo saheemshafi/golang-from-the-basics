@@ -36,3 +36,4 @@ ___
 12. [Conditionals](12conditionals/main.go)
 13. [Switch case](13switch-case/main.go)
 14. [Loops](14loops/main.go)
+15. [Functions](15functions/main.go)
