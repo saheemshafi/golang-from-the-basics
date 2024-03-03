@@ -37,3 +37,4 @@ ___
 13. [Switch case](13switch-case/main.go)
 14. [Loops](14loops/main.go)
 15. [Functions](15functions/main.go)
+15. [Attaching methods to structs](16methods/main.go)
