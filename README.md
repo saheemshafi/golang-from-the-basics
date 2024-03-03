@@ -21,10 +21,11 @@ ___
 - They are almost case insensitive.
 - The types of variables should be known in advance.
 
-### Programs
+### The Ladder
 1. [The starting - `Hello World`](/01hello/main.go)
 2. [The `Type` and variables](/02variables/main.go)
 3. [Inputs, conversions and parsing](/03input-and-parsing/main.go)
 4. [Time and Dates](/04time-and-dates/main.go)
 5. [Building go project into different os binaries](/05building-for-os/main.go)
 6. [Memory management](/06memory-management/main.go)
+7. [Memory management](/07pointers/main.go)
