@@ -34,3 +34,4 @@ ___
 10. [Key value pairs - `Maps`](10maps-in-go/main.go)
 11. [Structs](11structs-in-go/main.go)
 12. [Conditionals](12conditionals/main.go)
+13. [Switch case](13switch-case/main.go)
