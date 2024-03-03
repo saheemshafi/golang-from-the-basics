@@ -24,3 +24,5 @@ ___
 ### Programs
 1. [The starting - `Hello World`](/01hello/main.go)
 2. [The `Type` and variables](/02variables/main.go)
+3. [Inputs, conversions and parsing](/03input-and-parsing/main.go)
+4. [Time and Dates](/04time-and-dates/main.go)
