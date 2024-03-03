@@ -26,3 +26,4 @@ ___
 2. [The `Type` and variables](/02variables/main.go)
 3. [Inputs, conversions and parsing](/03input-and-parsing/main.go)
 4. [Time and Dates](/04time-and-dates/main.go)
+5. [Building go project into different os binaries](/05building-for-os/main.go)
