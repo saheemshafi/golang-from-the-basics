@@ -30,3 +30,4 @@ ___
 6. [Memory management](/06memory-management/main.go)
 7. [Pointers in `Go`](/07pointers/main.go)
 8. [Arrays](/08arrays/main.go)
+9. [Slices](09slices-in-go/main.go)
