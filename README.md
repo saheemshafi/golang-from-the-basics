@@ -32,3 +32,4 @@ ___
 8. [Arrays](/08arrays/main.go)
 9. [Slices](09slices-in-go/main.go)
 10. [Key value pairs - `Maps`](10maps-in-go/main.go)
+11. [Structs](11structs-in-go/main.go)
