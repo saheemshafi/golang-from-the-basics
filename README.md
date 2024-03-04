@@ -46,3 +46,4 @@ ___
 22. [`JSON` - Javascript Object Notation](22JSON/main.go)
 23. [Consuming `JSON`](23consuming-json/main.go)
 24. [**(Important)** - *Modules* in Golang](24modules/README.md)
+25. [A Simple In Memory Reset API](25simple-in-memory-rest-api/main.go)

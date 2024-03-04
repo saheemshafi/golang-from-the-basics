@@ -16,14 +16,12 @@ Dependencies are other modules that our module relies on. They are specified in 
 Go modules are downloaded from module proxies, which are HTTP servers that cache and serve module versions. The Go toolchain provides the GOPROXY environment variable to configure which module proxy to use.
 
 ### Module Cache:
-Go modules are cached on the local filesystem to avoid redundant downloads. By default, the module cache is located in the $GOPATH/pkg/mod directory.
+Go modules are cached on the local filesystem to avoid redundant downloads. By default, the module cache is located in the `$GOPATH/pkg/mod` directory.
 
 ### Module-aware `Go` commands:
 Go commands like `go build`, `go test`, and `go get` are module-aware. They automatically work with modules and their dependencies, resolving versions and downloading dependencies.
 
 ### `go mod` commands:
-
-Certainly! Here are some of the most commonly used Go module commands:
 
 1. `go mod init`: Initializes a new module in the current directory. This command creates a new go.mod file if one doesn't already exist.
 
