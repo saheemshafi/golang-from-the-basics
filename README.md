@@ -44,3 +44,4 @@ ___
 20. [URL](20url/main.go)
 21. [More about `HTTP` requests](21more-about-http-requests/main.go)
 22. [`JSON` - Javascript Object Notation](22JSON/main.go)
+23. [Consuming `JSON`](23consuming-json/main.go)
