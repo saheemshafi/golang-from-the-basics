@@ -45,3 +45,4 @@ ___
 21. [More about `HTTP` requests](21more-about-http-requests/main.go)
 22. [`JSON` - Javascript Object Notation](22JSON/main.go)
 23. [Consuming `JSON`](23consuming-json/main.go)
+24. [**(Important)** - *Modules* in Golang](24modules/README.md)
