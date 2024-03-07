@@ -49,3 +49,4 @@ ___
 25. [A Simple In Memory Reset API](25simple-in-memory-rest-api/main.go)
 26. [Go Routines](26go-routines/main.go)
 27. [Wait Groups](27wait-groups/main.go)
+28. [`Mutex` and `RWMutex`](28mutex-and-rw-mutex/main.go)
