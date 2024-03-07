@@ -48,3 +48,4 @@ ___
 24. [**(Important)** - *Modules* in Golang](24modules/README.md)
 25. [A Simple In Memory Reset API](25simple-in-memory-rest-api/main.go)
 26. [Go Routines](26go-routines/main.go)
+27. [Wait Groups](27wait-groups/main.go)
