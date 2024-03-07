@@ -47,3 +47,4 @@ ___
 23. [Consuming `JSON`](23consuming-json/main.go)
 24. [**(Important)** - *Modules* in Golang](24modules/README.md)
 25. [A Simple In Memory Reset API](25simple-in-memory-rest-api/main.go)
+26. [Go Routines](26go-routines/main.go)
