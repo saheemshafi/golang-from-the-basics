@@ -50,3 +50,4 @@ ___
 26. [Go Routines](26go-routines/main.go)
 27. [Wait Groups](27wait-groups/main.go)
 28. [`Mutex` and `RWMutex`](28mutex-and-rw-mutex/main.go)
+28. [Communication between go routines](29channels/main.go)
